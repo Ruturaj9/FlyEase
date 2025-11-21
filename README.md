@@ -29,4 +29,5 @@ FlyEase is a Java-based Flight Booking System with a graphical user interface (G
 ## Installation & Setup
 1. Clone the repository:
    ```sh
+   
    git clone https://github.com/Ruturaj9/FlyEase.git
